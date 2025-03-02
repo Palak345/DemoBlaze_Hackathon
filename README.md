@@ -108,7 +108,7 @@ The **DemoBlaze E-Commerce Testing Project** focuses on ensuring the functionali
 - Developed **Cucumber BDD feature files**.
 - Performed **cross-browser testing**.
 
-### **🛠 Nashrah Khan (API Testing)**
+### **🛠 Nashrah Khanam (API Testing)**
 - Developed **API test cases** in **Postman**.
 - Automated API validation using **REST Assured**.
 - Ensured **secure and efficient API workflows**.
