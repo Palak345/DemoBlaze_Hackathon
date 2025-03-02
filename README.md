@@ -1,6 +1,6 @@
 # 🛒 **DemoBlaze E-Commerce Testing Project**
 
-<img src= "https://github.com/user-attachments/assets/5b699765-fc4b-4f21-96a0-4f5befa92268 height="150"/>
+<img src= "https://github.com/user-attachments/assets/5b699765-fc4b-4f21-96a0-4f5befa92268" height="150"/>
 
 
 ## 📌 **Project Overview**
@@ -142,6 +142,6 @@ The **DemoBlaze Testing Project** successfully implements a scalable test automa
 
 ---
 
-📌 **Repository:** [GitHub Link]  
-📩 **Contact:** [palakmangalagrawal@gmail.com]
+📌 **Repository:** https://github.com/Palak345/DemoBlaze_Hackathon  
+📩 **Contact:** palakmangalagrawal@gmail.com
 
