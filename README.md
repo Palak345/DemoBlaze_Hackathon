@@ -1,7 +1,5 @@
 # 🛒 **DemoBlaze E-Commerce Testing Project**
 
-<img src= "!https://github.com/user-attachments/assets/1b1aec92-0038-4c4d-bae8-ed8d456d465a" height="150"/>
-
 
 ## 📌 **Project Overview**
 
