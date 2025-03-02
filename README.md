@@ -110,6 +110,8 @@ The **DemoBlaze E-Commerce Testing Project** focuses on ensuring the functionali
 
 ### **🛠 Nashrah Khanam (API Testing)**
 - Developed **API test cases** in **Postman**.
+- You can access the **Postman API Collection** here:  
+[🔗 Hackathon API Collection](https://www.postman.com/nashrah-khanam/workspace/hackathon-api-testing/collection/42727469-3a3557ae-0bd7-46ae-a643-8cf816d9d6d7?action=share&creator=42727469&active-environment=42727469-8642c03d-37c9-4caf-874d-874d68f453b8)
 - Automated API validation using **REST Assured**.
 - Ensured **secure and efficient API workflows**.
 
